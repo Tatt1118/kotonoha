@@ -8,7 +8,7 @@
 - 一人で企画〜実装までを担当
 - ノベルUIシステム、ステート管理、演出制御などを含む実践的なUnity開発
 - Unityroom上で公開中
-🔗 [▶ プレイページ（Unityroom）][https://unityroom.com/games/yourgame](https://unityroom.com/games/musoutekiboukyakuroku))
+🔗 [▶ プレイページ（Unityroom）][https://unityroom.com/games/kotonoha]
 
 ---
 
